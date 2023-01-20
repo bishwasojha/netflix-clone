@@ -109,7 +109,7 @@ function buildMovieSection(list , categoryName){
 }
 
 
-
+// initial event 
 window.addEventListener('load', function(){
     init();
     this.window.addEventListener('scroll', function(){
