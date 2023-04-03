@@ -3,4 +3,5 @@
 Deployed with Netlify 
 
 :- https://netflixjastai.netlify.app/
-``` Made with documentation and Youtube video guidance```
+
+| `Made with documentation and Youtube video guidance`
